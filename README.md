@@ -1,0 +1,1 @@
+In recent times Telegram has become one of the most used messaging and content sharing platforms, it has no file sharing limit like Whatsapp and it comes with some preinstalled bots one can use in any channels (groups in case of whatsapp) to control the behavior or filter the spam messages sent by users.
